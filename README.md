@@ -8,6 +8,8 @@ The Rest clients should be able to
 * Upldate a new customer
 * Delete a list of customers
 
+Therefore, HTTP methods will be include GET, POST, PUT and DELETE respectively.
+
 ### Run and Test
 
 You will need to install and configure eclipse, MySQL and POSTMAN
