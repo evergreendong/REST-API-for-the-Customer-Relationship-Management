@@ -36,3 +36,8 @@ You will need to install and configure eclipse, MySQL and POSTMAN
 * Update a single customer, e.g. modify customer's firstName field from "Changqing" to "Louis"
 ![put1](https://user-images.githubusercontent.com/70967683/223906236-21718dd4-4d67-41a9-aff4-38681e0ceae6.jpg)
 ![put2](https://user-images.githubusercontent.com/70967683/223906239-3e5d8493-17f8-4a3d-b5e2-b4d5ed598a44.jpg)
+
+* Delete a single customer, e.g. remove the customer with ID 9 from the database.
+![delete1](https://user-images.githubusercontent.com/70967683/223907782-4154317a-6c8a-4ced-8a2d-e7e8161d9f95.jpg)
+![delete2](https://user-images.githubusercontent.com/70967683/223907786-985862e0-9222-4d41-b42d-4a8b14cd8243.jpg)
+
