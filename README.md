@@ -28,10 +28,11 @@ You will need to install and configure eclipse, MySQL and POSTMAN
 * Handle Exceptions, e.g. retrieve a customer ID that does not exist
 ![handle exception](https://user-images.githubusercontent.com/70967683/223888123-f8ada643-905d-484d-8cca-6b283c376980.jpg)
 
+
 * Add a single customer, e.g. adding a new customer is successful. new id 9 is created
 ![POST1](https://user-images.githubusercontent.com/70967683/223904930-a450de57-7a20-4768-87b7-1122bc5ef192.jpg)
 ![POST2](https://user-images.githubusercontent.com/70967683/223904931-c6a23f5a-c211-45b8-a3a1-391ac4c02ed9.jpg)
 
-* Update a single customer
-
-
+* Update a single customer, e.g. modify customer's firstName field from "Changqing" to "Louis"
+![put1](https://user-images.githubusercontent.com/70967683/223906236-21718dd4-4d67-41a9-aff4-38681e0ceae6.jpg)
+![put2](https://user-images.githubusercontent.com/70967683/223906239-3e5d8493-17f8-4a3d-b5e2-b4d5ed598a44.jpg)
