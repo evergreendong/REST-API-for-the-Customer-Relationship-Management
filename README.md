@@ -14,7 +14,7 @@ Therefore, HTTP methods will include GET, POST, PUT and DELETE respectively.
 
 You will need to install and configure eclipse, MySQL and POSTMAN
 
-### Demostration
+### Project Demonstration
 
 ![Homepage](https://user-images.githubusercontent.com/70967683/223885308-fd5a5174-ccc7-4564-9f00-19c7b8f26362.jpg)
 
