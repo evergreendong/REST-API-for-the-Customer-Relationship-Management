@@ -29,8 +29,8 @@ You will need to install and configure eclipse, MySQL and POSTMAN
 ![handle exception](https://user-images.githubusercontent.com/70967683/223888123-f8ada643-905d-484d-8cca-6b283c376980.jpg)
 
 * Add a single customer, e.g. adding a new customer is successful. new id 9 is created
-
-![POST1](https://user-images.githubusercontent.com/70967683/223903758-7a226ca6-0df4-457d-9049-195e673b00a4.jpg)
+![POST1](https://user-images.githubusercontent.com/70967683/223904930-a450de57-7a20-4768-87b7-1122bc5ef192.jpg)
+![POST2](https://user-images.githubusercontent.com/70967683/223904931-c6a23f5a-c211-45b8-a3a1-391ac4c02ed9.jpg)
 
 * Update a single customer
 
