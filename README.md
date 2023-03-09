@@ -8,7 +8,7 @@ The Rest clients should be able to
 * Upldate a new customer
 * Delete a list of customers
 
-Therefore, HTTP methods will be include GET, POST, PUT and DELETE respectively.
+Therefore, HTTP methods will include GET, POST, PUT and DELETE respectively.
 
 ### Run and Test
 
@@ -28,6 +28,9 @@ You will need to install and configure eclipse, MySQL and POSTMAN
 * Handle Exceptions, which means a customer ID that does not exist
 ![handle exception](https://user-images.githubusercontent.com/70967683/223888123-f8ada643-905d-484d-8cca-6b283c376980.jpg)
 
+* Add a single customer [ adding a new customer is successful. new id 9 is created]
+
+![POST1](https://user-images.githubusercontent.com/70967683/223903758-7a226ca6-0df4-457d-9049-195e673b00a4.jpg)
 
 * Update a single customer
 
